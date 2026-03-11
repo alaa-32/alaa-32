@@ -1,4 +1,4 @@
-Hi there 👋
+##Hi there 👋
 I’m Alaa, a Computer Science student at USTHB in Algeria, with a strong interest in research in data science and artificial intelligence. I enjoy exploring ideas that connect research to real-world challenges, and I believe technology becomes meaningful when it solves a real problem. I’m always learning, building, and growing through projects, research, and practical experience.
 <!--
 **alaa-32/alaa-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
